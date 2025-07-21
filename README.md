@@ -6,7 +6,7 @@
 [![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-orange.svg)](https://matplotlib.org/)
 
 ## 📊 Project Overview
- analysis of Netflix's content catalog using advanced data science techniques. This project demonstrates end-to-end data processing, statistical analysis, and business intelligence generation from raw streaming platform data.
+Strategic analysis of Netflix's content catalog using advanced data science techniques. This project demonstrates end-to-end data processing, statistical analysis, and business intelligence generation from raw streaming platform data.
 
 ## 🎯 Key Objectives
 - **Content Strategy Analysis**: Genre distribution and market gap identification
